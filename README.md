@@ -12,13 +12,19 @@ He has prepared for us an entity relationship diagram of his database design but
 ## Data Description
 Danny provided the date of his restaurant that contains 3 following tables:
 
-1. **`Sales:`** This table give us an idea about sales of foods and contains data of customer_id, order_date and product_id.
+1. **`Pizza_names:`** This table contains data about pizza_id and pizza_name.
 
-2. **`Members:`** This table provides idea about loyal members of his restaurant and contains data on customer_id and join_date.
+2. **`pizza_recipes:`** This table contains data about pizza_id and toppings.
 
-3. **`Menu:`** As name suggest, this table contains the data of different products i.e product_id, product_name and price.
+3. **`pizza_toppings:`** This table contains data about topping_id and topping_name.
 
-![Screenshot 2024-06-03 095926](https://github.com/diptiranjan1998/Danny-s-Dinner/assets/126856016/03589110-a864-408f-84ed-6c5a421c4beb)
+4. **`runners:`** This table contains data about runner_id and registration_date.
+
+5. **`customer_orders:`** This table contains data about order_id, customer_id, pizza_id, exclusions and extrasorder_time.
+
+6. **`runner_orders:`** This table contains data about order_id, runner_id, pickup_time, distance_km, duration_minute and cancellation.
+
+![Screenshot 2024-06-03 111721](https://github.com/diptiranjan1998/Pizza-Runner/assets/126856016/8de9b940-664d-4ff2-85a6-798cf7d59be9)
 
 ## Case Studies
 Each of the following case study questions provides Danny with some valuable business insights:
