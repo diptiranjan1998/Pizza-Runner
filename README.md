@@ -29,21 +29,8 @@ Danny provided the date of his restaurant that contains 3 following tables:
 ## Case Studies
 Each of the following case study questions provides Danny with some valuable business insights:
 
-  1. What is the total amount each customer spent at the restaurant?
-  2. How many days has each customer visited the restaurant?
-  3. What was the first item from the menu purchased by each customer?
-  4. What is the most purchased item on the menu and how many times was it purchased by all customers?
-  5. Which item was the most popular for each customer?
-  6. Which item was purchased first by the customer after they became a member?
-  7. Which item was purchased just before the customer became a member?
-  8. What is the total items and amount spent for each member before they became a member?
-  9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-  10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
-  * Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program. The rough example given below:
 
-![Screenshot 2024-06-03 104954](https://github.com/diptiranjan1998/Danny-s-Dinner/assets/126856016/6fcc6b57-9617-4efd-8569-5ce4fbcfb906)
-
-### Run this [SQL Script](https://drive.google.com/file/d/1rBo6b2IgJsUx2KQh6EIYwzPj6UdiftYr/view?usp=drive_link) to get the comprehensive answers to above case study questions.
+### Run this [SQL Script](https://drive.google.com/file/d/1KY2JVh9CqSKvLnNJ6M3GqRhKY-vrZo2u/view?usp=drive_link) to get the comprehensive answers to above case study questions.
 
 ## THANK YOU
