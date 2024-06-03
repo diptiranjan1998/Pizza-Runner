@@ -82,6 +82,6 @@ Each of the following case study questions provides Danny with some valuable bus
 
 
 
-### Run this [SQL Script](https://drive.google.com/file/d/1KY2JVh9CqSKvLnNJ6M3GqRhKY-vrZo2u/view?usp=drive_link) to get the comprehensive answers to above case study questions.
+### Run this [SQL Script](https://drive.google.com/file/d/1KY2JVh9CqSKvLnNJ6M3GqRhKY-vrZo2u/view?usp=drive_link) to get the comprehensive answers to the above case study questions.
 
 ## THANK YOU
