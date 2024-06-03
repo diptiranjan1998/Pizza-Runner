@@ -28,6 +28,10 @@ Danny provided the date of his restaurant that contains 3 following tables:
 
 ## Case Studies
 Each of the following case study questions provides Danny with some valuable business insights:
+1. **Pizza Metrics**
+2. **Runner and Customer Experience**
+3. **Ingredient Optimisation**
+4. **Pricing and Ratings**
 
 
 
